@@ -1,0 +1,13 @@
+
+div {
+    background-color: red;
+}
+
+div:nth-of-type(2n) {
+    background-color: black;
+}
+
+section.about .heading {
+    color: red;
+    text-align: center;
+  }
